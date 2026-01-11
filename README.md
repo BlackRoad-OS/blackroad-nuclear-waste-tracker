@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Nuclear Waste Tracker
+# BlackRoad nuclear-waste-tracker
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Nuclear waste tracking and compliance.
 
-## 🚀 Quick Start
+## Features
+- Self-hosted and sovereign
+- Full data ownership
+- Enterprise-grade reliability
+- BlackRoad ecosystem integration
 
-```bash
-./blackroad-nuclear-waste-tracker.sh
-```
+## License
 
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
